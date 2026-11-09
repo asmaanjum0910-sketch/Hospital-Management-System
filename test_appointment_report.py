@@ -1,0 +1,3 @@
+from reports.appointment_report import date_wise_appointment_report
+
+date_wise_appointment_report()

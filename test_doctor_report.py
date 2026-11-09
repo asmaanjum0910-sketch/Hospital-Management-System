@@ -1,0 +1,3 @@
+from reports.doctor_report import doctor_appointment_report
+
+doctor_appointment_report()

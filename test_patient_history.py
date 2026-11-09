@@ -1,0 +1,3 @@
+from reports.patient_history import patient_history_report
+
+patient_history_report()

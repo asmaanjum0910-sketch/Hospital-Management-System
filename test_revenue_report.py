@@ -1,0 +1,3 @@
+from reports.revenue_report import monthly_revenue_report
+
+monthly_revenue_report()
